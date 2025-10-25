@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-profile-readme-generator/master/src/images/banner.png" width="600"/>
+  <img src="https://cdn.dribbble.com/users/2049554/screenshots/6539941/programmer.gif" width="600"/>
 </p>
 
 
