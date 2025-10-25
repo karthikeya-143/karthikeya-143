@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/programming/programming-plain.svg" width="150"/>
+  <img src="https://raw.githubusercontent.com/karanpratapsingh/portfolio/main/assets/banner.png" width="600"/>
 </p>
 
 
