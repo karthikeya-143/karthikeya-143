@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karanpratapsingh/portfolio/main/assets/banner.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/public/assets/github-banner.png" width="100%" />
 </p>
+
 
 
 <h1 align="center">Hi, I'm Karthikeya 👋</h1>
