@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/public/assets/github-banner.png" alt="GitHub Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Karthikeya 👋</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
