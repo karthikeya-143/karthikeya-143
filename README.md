@@ -1,68 +1,114 @@
-<h1 align="center">Hi, I'm Karthikeya 👋</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Karthikeya</h1>
+<h3 align="center">🚀 AI/ML Engineer | MLOps Enthusiast | Full Stack Developer</h3>
 
 ---
 
-## 🚀 About Me
-I'm a passionate **Full Stack Developer** and **AI enthusiast** who loves building scalable web applications and solving challenging problems.  
-
-- 💡 Problem-solving & **DSA enthusiast**  
-- 🌱 Always learning **AI, Machine Learning, and cutting-edge web tech**  
-- ⚡ Strong passion for **clean code and scalable architectures**  
-- 🖥️ Experienced in **building end-to-end applications**
-
----
-
-## 🛠️ Skills
-
-### **Frontend**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/tailwindcss-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui-logo.svg" width="40" height="40"/>
-</p>
-
-### **Backend**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40"/>
-</p>
-
-### **Programming & DSA**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-</p>
-
-### **Tools**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/postman-3521655-2944920.png" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/thunderclient/logo/main/logo.png" width="40" height="40"/>
-</p>
+## 👨‍💻 About Me
+- 🎓 B.Tech CSE @ Chaitanya Bharathi Institute of Technology  
+- 🤖 Passionate about **Machine Learning, MLOps & Scalable Systems**  
+- ⚡ Building **production-ready ML systems using FastAPI + Docker + DVC**  
+- 🌐 Full Stack Developer using **MERN & Next.js**  
+- 💡 Love solving real-world problems using AI  
 
 ---
 
-## 💼 Projects
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **Chat Application** | Real-time 1:1 & group chat app | React, Node.js, Socket.IO, MongoDB, Tailwind CSS, DaisyUI |
-| **E-commerce Website** | Fully functional online store with payment integration | Node, MongoDB, Express, React, DaisyUI |
+## 🚀 Tech Stack
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=karthikeya-143&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeya-143&theme=tokyonight&hide_border=true" />
-</p>
+### 🤖 Machine Learning & Data Science
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-lightblue?style=for-the-badge)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### ⚡ Backend Development
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+
+---
+
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+
+---
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+---
+
+### ⚙️ MLOps & DevOps
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![DVC](https://img.shields.io/badge/DVC-purple?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
+![MLflow](https://img.shields.io/badge/MLflow-blue?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+
+---
+
+## 🧠 What I Build
+
+- 🔥 End-to-End ML Pipelines (Training → Deployment)
+- ⚡ FastAPI-based ML APIs
+- 🐳 Dockerized Applications
+- 📦 DVC Pipelines for Data & Models
+- 🌐 Full Stack Apps (MERN + Next.js)
+
+---
+
+## 📌 Featured Projects
+
+
+### 📄 ATS Resume Analyzer
+- NLP + TF-IDF based system  
+- Keyword extraction & scoring  
+
+---
+
+### 💰 Medical Insurance Prediction API
+- ML model deployed using **FastAPI**  
+- Real-time predictions via REST API  
+- Dockerized for scalability  
+
+---
+### 🎬 Movie Recommendation System
+- Content-based filtering using cosine similarity  
+- Built with **Python + Streamlit**
+
+---
+
+### 🛒 E-Commerce Platform
+- Full-stack app using **Express.js + React + MongoDB**  
+- REST APIs + authentication  
+
+---
+
+## 🐳 MLOps Workflow
+
+```bash
+# Clone repository
+git clone https://github.com/your-username/project.git
+
+# Run DVC pipeline
+dvc repro
+
+# Start FastAPI server
+uvicorn app:app --reload
+
+# Docker build
+docker build -t ml-project .
+
+# Run container
+docker run -p 8000:8000 ml-project
