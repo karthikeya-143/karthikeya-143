@@ -1,6 +1,4 @@
-# Full animated GitHub README
 
-```md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:8A2BE2,100:FF0080&text=Karthik%20Batta&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
@@ -343,4 +341,3 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:8A2BE2,100:FF0080"/>
 
-```
