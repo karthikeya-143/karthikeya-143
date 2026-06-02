@@ -35,6 +35,22 @@
 ![NLP](https://img.shields.io/badge/NLP-purple?style=for-the-badge)
 ![Recommendation](https://img.shields.io/badge/Recommendation_Systems-red?style=for-the-badge)
 
+## 🚀 MLOps & Deployment
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CI/CD-FF6B35?style=for-the-badge"/>
+
+</p>
+
 ## 📚 Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
