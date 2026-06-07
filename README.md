@@ -50,6 +50,27 @@
 <img src="https://img.shields.io/badge/CI/CD-FF6B35?style=for-the-badge"/>
 
 </p>
+<h2><b>🧠 Generative AI & Agentic AI</b></h2>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Embeddings-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Databases-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF4081?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-00BCD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-00BCD4?style=for-the-badge"/>
+
+</p>
+
 
 ## 📚 Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
