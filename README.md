@@ -3,7 +3,7 @@
 ### Artificial Intelligence & Machine Learning Enthusiast | Full Stack Developer | Problem Solver
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+AI-Powered+Applications;650%2B+LeetCode+Problems+Solved;Future+AI+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+AI-Powered+Applications;700%2B+LeetCode+Problems+Solved;Future+AI+Engineer"/>
 </p>
 
 <div align="center">
@@ -113,7 +113,7 @@
 # 🏆 Achievements
 
 - 97.78 Percentile in JEE Mains
-- 500+ LeetCode Problems Solved
+- 700+ LeetCode Problems Solved
 - Oracle AI Foundations Associate
 - Multiple Hackathon Participations
 
