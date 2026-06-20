@@ -35,6 +35,15 @@
 ![NLP](https://img.shields.io/badge/NLP-purple?style=for-the-badge)
 ![Recommendation](https://img.shields.io/badge/Recommendation_Systems-red?style=for-the-badge)
 
+## 🧠 Deep Learning
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
+![Artificial Neural Networks](https://img.shields.io/badge/ANN-Artificial_Neural_Networks-blue?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-Convolutional_Neural_Networks-red?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-purple?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-green?style=for-the-badge)
+![Image Classification](https://img.shields.io/badge/Image_Classification-orange?style=for-the-badge)
+
 ## 🚀 MLOps & Deployment
 
 <p align="left">
